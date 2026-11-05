@@ -30,7 +30,6 @@ Atualmente, estou estudando e desenvolvendo conhecimentos em:
 ## 📫 Vamos nos conectar?
 
 - 💼 [LinkedIn](in/ayra-rodrigues-ab960134a)
-- 🐙 [GitHub](https://github.com/aryy007)
 
 ---
 
