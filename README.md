@@ -16,11 +16,9 @@ Gosto de aprender coisas novas, desenvolver projetos e transformar ideias em sol
 
 Atualmente, estou estudando e desenvolvendo conhecimentos em:
 
-- Java
-- C
-- HTML5
-- CSS3
-- JavaScript
+<p>
+  <img src="https://skillicons.dev/icons?i=java,c,html,css,javascript" />
+</p>
 
 ## 🌱 Atualmente aprendendo
 
