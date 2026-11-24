@@ -79,18 +79,6 @@
         <img src="https://img.shields.io/badge/View%20Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
-    <td width="50%" valign="top">
-      <h4>Java OOP & Serialization</h4>
-      <p>Estudos práticos e implementações em Java abordando encapsulamento, polimorfismo, interfaces, Collections Framework e serialização de objetos.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-18181B?style=flat-square&logoColor=7C3AED" />
-        <img src="https://img.shields.io/badge/OOP-18181B?style=flat-square&logoColor=7C3AED" />
-        <img src="https://img.shields.io/badge/Serialization-18181B?style=flat-square&logoColor=7C3AED" />
-      </p>
-      <a href="https://github.com/aryy007">
-        <img src="https://img.shields.io/badge/Explore%20Code-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
   </tr>
 </table>
 
